@@ -1,1 +1,1 @@
-# wod-generator
+# wod-generator app
